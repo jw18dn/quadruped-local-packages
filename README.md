@@ -1,10 +1,11 @@
-Mujoco humanoid example using docker
+Mujoco quadruped with optimization
 
-Packages Needed to run (all in the include folder)
-1. mujoco
-2. glfw3
-3. eigen
-4. osqp
+Packages Needed to run (download and put in the "include" folder)
+1. mujoco - https://github.com/google-deepmind/mujoco
+2. glfw3 - www.glfw.org 
+3. eigen - https://gitlab.com/libeigen/eigen.git 
+4. osqp - https://github.com/osqp/osqp 
+5. osqp-Eigen - https://github.com/robotology/osqp-eigen 
 
 Instructions for begginers 
 1. delete the contents of build folders
