@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MujocoExample.dir/src/MujocoExample.cpp.o -o MujocoExample  -Wl,-rpath,/usr/local/lib -lstdc++ -lstdc++fs -lm /usr/local/lib/libmujoco.so.2.3.8 /usr/local/lib/libOsqpEigen.so.0.8.1 /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 /usr/local/lib/libosqp.so 
